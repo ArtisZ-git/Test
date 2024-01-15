@@ -1,2 +1,2 @@
-Artis Zarans Daugavpils Universitate IT 1.kurss 
-Algoritmu un datu strukturas
+Artis Zarans Daugavpils Universitate IT 2.kurss 
+Programmu kvalitates testesana
